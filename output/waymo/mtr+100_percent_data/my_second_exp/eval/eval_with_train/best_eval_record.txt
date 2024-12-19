@@ -1,0 +1,41 @@
+epoch_1 mAP 0.2756202701065275
+best_epoch_1 mAP 0.2756202701065275
+epoch_2 mAP 0.33370926645067
+best_epoch_2 mAP 0.33370926645067
+epoch_3 mAP 0.34260203937689465
+best_epoch_3 mAP 0.34260203937689465
+epoch_4 mAP 0.3531237857209311
+best_epoch_4 mAP 0.3531237857209311
+epoch_5 mAP 0.36308252811431885
+best_epoch_5 mAP 0.36308252811431885
+
+Epoch 1
+       Waymo          mAP       minADE       minFDE     MissRate            
+      VEHICLE      0.2808,      1.0975,      2.0834,      0.2561,            
+   PEDESTRIAN      0.3214,      0.4085,      0.8644,      0.1043,            
+      CYCLIST      0.2246,      0.9335,      1.9612,      0.2687,            
+          Avg      0.2756,      0.8132,      1.6363,      0.2097,        
+Epoch 2
+       Waymo          mAP       minADE       minFDE     MissRate            
+      VEHICLE      0.3475,      0.8819,      1.7915,      0.2040,            
+   PEDESTRIAN      0.3996,      0.3945,      0.8293,      0.0918,            
+      CYCLIST      0.2540,      0.8873,      1.7783,      0.2417,            
+          Avg      0.3337,      0.7212,      1.4664,      0.1792,       
+Epoch 3
+       Waymo          mAP       minADE       minFDE     MissRate            
+      VEHICLE      0.3440,      0.8975,      1.7882,      0.2032,            
+   PEDESTRIAN      0.4179,      0.4320,      0.8987,      0.0971,            
+      CYCLIST      0.2659,      0.8339,      1.6944,      0.2293,            
+          Avg      0.3426,      0.7211,      1.4604,      0.1765,           
+Epoch 4
+       Waymo          mAP       minADE       minFDE     MissRate            
+      VEHICLE      0.3772,      0.8519,      1.7078,      0.1892,            
+   PEDESTRIAN      0.4116,      0.3809,      0.7963,      0.0856,            
+      CYCLIST      0.2706,      0.7890,      1.6322,      0.2210,            
+          Avg      0.3531,      0.6739,      1.3788,      0.1653,        
+Epoch 5
+       Waymo          mAP       minADE       minFDE     MissRate            
+      VEHICLE      0.3837,      0.8344,      1.6811,      0.1840,            
+   PEDESTRIAN      0.4234,      0.3865,      0.8077,      0.0809,            
+      CYCLIST      0.2821,      0.7970,      1.6253,      0.2166,            
+          Avg      0.3631,      0.6726,      1.3713,      0.1605,       
